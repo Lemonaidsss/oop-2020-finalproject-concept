@@ -2,5 +2,5 @@
 //Adrian Ramirez
 //STI College Baguio
 /*In partial fullfillment
-for the requirements for the 
+of the requirements for the 
 subject Object Oriented Programming*/
